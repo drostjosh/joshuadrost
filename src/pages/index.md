@@ -28,10 +28,14 @@ sections:
     title: Interesting things about me.
     features:
       - type: feature
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          My dissertation research was focused on hand function and how it
+          changes. I used motion capture and six axis load cells to quantify
+          hand function in terms of how the fingers can move and apply forces.
+          These ranges of motion and forces were used to create models of force
+          production and to track differences in participants due to surgery. I
+          also developed visualization methods to explain how differences in
+          function both range of motion and forces. 
         align: left
         image: /images/PreSurgery.jpg
         image_alt: Feature 1 placeholder image
