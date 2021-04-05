@@ -31,7 +31,7 @@
             },
             {
                 "type": "action",
-                "label": "Contact Us",
+                "label": "Contact Me",
                 "url": "/contact",
                 "style": "primary"
             }
