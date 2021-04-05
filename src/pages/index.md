@@ -45,7 +45,7 @@ sections:
             label: Learn More
             url: /features
             style: secondary
-        title: Dissertation Work
+        title: Hand Function
       - type: feature
         title: Feature 2
         content: >-
