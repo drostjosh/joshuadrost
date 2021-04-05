@@ -41,6 +41,7 @@ sections:
             label: Learn More
             url: /features
             style: secondary
+        title: Hey
       - type: feature
         title: Feature 2
         content: >-
