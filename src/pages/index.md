@@ -48,13 +48,15 @@ sections:
         title: Hand Function
       - type: feature
         title: Bone quality and Imaging
-        content: >+
+        content: >
           At the Henry Ford Hospital Bone and Joint center research lab we are
           using Digital Tomosynthesis to assess vertebral bone quality through
           microstructural texture and digital volume correlation derived
           displacements and strains. Our goal is to better predict and prevent
-          vertebral fractures. 
+          vertebral fractures.
 
+
+          Shown to the left is the displacement gradient over a L1 vertebrae.
         align: left
         image: /images/RainbowPoop.jpg
         image_alt: Feature 2 placeholder image
