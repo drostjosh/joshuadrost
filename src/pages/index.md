@@ -56,7 +56,7 @@ sections:
           vertebral fractures. 
 
         align: left
-        image: images/feature.svg
+        image: /images/RainbowPoop.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
