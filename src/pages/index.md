@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Interesting things about me.
+    title: Interesting things I have done
     features:
       - type: feature
         content: >
