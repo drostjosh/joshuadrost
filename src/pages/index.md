@@ -99,7 +99,7 @@ sections:
     background_color: gray
 seo:
   type: stackbit_page_meta
-  title: Stackbit Starter Theme
+  title: All About Josh
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
