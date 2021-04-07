@@ -5,7 +5,6 @@ categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
 tags:
-  - JAMstack
   - Sourcebit
 image: images/4.png
 image_alt: Post 4 placeholder image
