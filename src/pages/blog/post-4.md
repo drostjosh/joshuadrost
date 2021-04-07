@@ -11,9 +11,8 @@ tags:
 image: images/4.png
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  At MSU I taught two courses: Dynamics (ME 325) in the spring of 2018 and an
+  intro to research seminar series in the summer of 2019. Click to learn more.
 seo:
   type: stackbit_page_meta
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
