@@ -3,7 +3,6 @@ title: Teaching
 date: '2020-05-30'
 categories:
   - src/data/categories/tutorials.yaml
-  - src/data/categories/news.yaml
 tags:
   - Sourcebit
 image: images/4.png
